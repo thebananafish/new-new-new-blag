@@ -1,0 +1,12 @@
+---
+title: .in move!
+---
+the move of bananafish.es to bananafish.in is just about complete.
+
+most of the move was done with editing a few configs here and there and restarting services.
+
+for now I have created an nginx vhost to grab *.bananafish.es and send it to a "we moved" page.
+
+the only thing that gave me trouble was puppet that I run for a lot of my servers.  I will write another blog post explaning how I managed to migrate that.
+
+also special thanks to NulledNets who made the new awesome css and logos for this blog and my main werc site.

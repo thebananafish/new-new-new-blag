@@ -1,0 +1,25 @@
+---
+title: new blog!
+---
+holy shit! a new post and a "new" blog!
+
+okay so I decided to transition my personal blog (this one) to the [Ghost](http://ghost.org) blogging patform. For various reasons...
+
+First and foremost, it has a really nice editor that is accessed via a webpage. It is really simple and just takes markdown.
+
+Secondly, it's clean and perfect for a personal blog like this. I really like octopress and jekyll for my other projects (see [wiki.bananafish.es](http://wiki.bananafish.es) and [etc.bananafish.es](http://etc.bananafish.es)) but for my personal blog I would rather it be simple and clean but with a nice editor that encourages me to write, anywhere.
+
+Thirdly, it's shiny and new... I think Ghost has a lot of potential and the developers are very serious about it. It will only keep getting better.
+
+Now with good there is always bad...
+
+I really only worried about two things with this new platform.
+
+First, it doesn't use a flat file structure like octopress or jekyll. I really liked that, simple text files are the ultimate in portability and Ghost stores everything in a sqlite db :\
+
+Second, Ghost uses node.js. I hate it. Everytime I need to run something that uses node.js it takes longer to find the right version that doesn't have broken issues with sqlite-dev or etc. (For this blog it took 4 tries until I came at node v.0.10.22)
+
+For me the good still outweighed the bad, and I have seen a method to export posts on here to plain text files anyway.
+
+So hopefully expect more posts from me.
+
